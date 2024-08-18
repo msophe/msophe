@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abraham
-- I’m interested in building innovative payment infrastructure
 - 🌱 I’m currently learning Nodejs & Typescript
 
 <!---
